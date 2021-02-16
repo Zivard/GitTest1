@@ -7,7 +7,8 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            // Code was edited on GitHub
+            // Code was edited in GitHub
+            // Code was added in VS
         }
     }
 }
